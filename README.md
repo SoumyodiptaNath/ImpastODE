@@ -4,6 +4,8 @@
 
 **ImpastODE** is a generative art tool that transforms static images into dynamic, Van Gogh-style sketches. By modeling color regions as magnetic basins of attraction, it uses **Ordinary Differential Equations (ODEs)** to simulate "brushstrokes" that flow naturally along the contours of the image.
 
+![Scene_8x](https://github.com/user-attachments/assets/cd1669d8-6733-4619-82c9-c93e76d5a992)
+
 ## 🌟 Concept
 
 Standard edge detection gives you outlines. **ImpastODE** gives you *flow*.
@@ -103,5 +105,6 @@ Pull requests are welcome! Ideas for future features:
 ## 📜 License
 
 Distributed under the MIT License. See `LICENSE` for more information.
+
 
 ---
