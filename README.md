@@ -16,7 +16,7 @@ It treats an image not as a grid of pixels, but as a continuous dynamical system
 3.  **Generates** a vector field where every color blob becomes a swirling vortex.
 4.  **Simulates** particles moving through this field. The path of the particle becomes the brushstroke.
 
-The result is a "thick," turbulent texture reminiscent of the **Impasto** technique used by Impressionist painters.
+The result is a "thick," turbulent texture reminiscent of the **Impasto** (a painting technique where paint is applied thickly so brushstrokes are visibly textured).
 
 ![out](https://github.com/user-attachments/assets/4c2f33d8-fde9-4d49-80db-c904939be243)
 
@@ -110,4 +110,5 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 
 ---
+
 
