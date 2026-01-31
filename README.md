@@ -18,6 +18,8 @@ It treats an image not as a grid of pixels, but as a continuous dynamical system
 
 The result is a "thick," turbulent texture reminiscent of the **Impasto** technique used by Impressionist painters.
 
+![out](https://github.com/user-attachments/assets/4c2f33d8-fde9-4d49-80db-c904939be243)
+
 ---
 
 ## 🚀 How It Works (The Math)
@@ -108,3 +110,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 
 ---
+
